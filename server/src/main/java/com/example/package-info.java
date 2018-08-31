@@ -1,2 +1,4 @@
-/** test comment */
+/** 
+ * test comment.
+ */
 package com.example;
